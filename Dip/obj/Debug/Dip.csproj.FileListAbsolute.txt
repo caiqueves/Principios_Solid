@@ -1,0 +1,14 @@
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\bin\Debug\Dip.exe.config
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\bin\Debug\Dip.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\bin\Debug\Dip.pdb
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\obj\Debug\Dip.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\obj\Debug\Dip.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Dip\obj\Debug\Dip.pdb
+D:\Cursos\Principios_Solid\Dip\bin\Debug\Dip.exe.config
+D:\Cursos\Principios_Solid\Dip\bin\Debug\Dip.exe
+D:\Cursos\Principios_Solid\Dip\bin\Debug\Dip.pdb
+D:\Cursos\Principios_Solid\Dip\obj\Debug\Dip.csprojAssemblyReference.cache
+D:\Cursos\Principios_Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+D:\Cursos\Principios_Solid\Dip\obj\Debug\Dip.exe
+D:\Cursos\Principios_Solid\Dip\obj\Debug\Dip.pdb
